@@ -1,25 +1,26 @@
 
 .panel-status-menu-hbox{
-  font-size: 17px;
+  color: rgba(255,255,255,0.3);
+  font-size: 15px;
   border-radius: 5px;
-  padding: 1px;
+  padding: 2px 0;
   margin-bottom: 0px;
 }
 
 .panel-status-menu-hbox-connected{
-  background-color: rgba(10,130,10,0.6);
+  color: rgba(255,255,255,0.7);
   border-radius: 5px;
-  font-size: 17px;
-  padding: 1px;
-  margin-bottom: 2px;
+  font-size: 15px;
+  padding: 2px 0;
+  margin-bottom: 0px;
 }
 
 .panel-status-menu-hbox-problem{
-  background-color: rgba(200,150,30,0.6);
+  color: rgba(200,150,30,0.6);
   border-radius: 5px;
-  font-size: 17px;
-  padding: 1px;
-  margin-bottom: 2px;
+  font-size: 15px;
+  padding: 2px 0;
+  margin-bottom: 0px;
 }
 
 .label-nvpn-panel{
